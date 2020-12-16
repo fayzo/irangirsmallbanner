@@ -18,7 +18,7 @@ define('LOGIN', BASE_URL.'includes/login.php');
 define('LOGOUT', BASE_URL.'includes/logout.php');
 define('ADMIN', BASE_URL.'admin.php');
 // UPLOAD PHOTO
-define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT'].'/car');
+define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT'].'/house');
 // UPLOAD PHOTO
 
 // THIS IS HOUSE LINK
